@@ -71,7 +71,7 @@ author:
   name   : "Katie Matton"
   avatar : "/assets/images/headshot.jpg"
   bio    : "PhD student in computer science at MIT"
-  location : "Ann Arbor, MI"
+  location : "Cambridge, MA"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

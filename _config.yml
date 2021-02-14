@@ -70,7 +70,7 @@ plugins:
 author:
   name   : "Katie Matton"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "Incoming PhD student in computer science at MIT"
+  bio    : "PhD student in computer science at MIT"
   location : "Ann Arbor, MI"
   links:
     - label: "Email"

@@ -8,4 +8,4 @@ Hi! I'm a first year PhD student in computer science at MIT, advised by [John Gu
 I received my M.S.E. and B.S.E. degrees in computer science from the University of Michigan in 2019 and 2018, repsectively. While there, I worked with [Emily Mower Provost](https://web.eecs.umich.edu/~emilykmp/) on machine learning methods for detecting symptom severity in individuals with bipolar disorder.
 
 
-You can email me at kmatton@mit.edu and can find my CV [here](https://drive.google.com/file/d/1rZ-rADzmCxjFMeifpzIRUFLTLtmehOQD/view?usp=sharing).
+You can email me at kmatton@mit.edu and can find my CV [here](https://drive.google.com/file/d/1WKtDbNee_oowUgjtWrZ0uu3L4BKOYz8T/view?usp=sharing).

@@ -9,7 +9,7 @@ title: "Publications"
 
 **Quantifying the Effects of COVID-19 on Mental Health Support Forums.**
 Laura Biester*, **Katie Matton***, Janarthanan Rajendran, Emily Mower Porvost, and Rada Mihalcea.
-*Workshop on NLP for COVID-19, EMNLP 2020,* Oral presentation. (* = equal contribution). [[pdf](https://openreview.net/pdf?id=4LIJshtHlnk)
+*Workshop on NLP for COVID-19, EMNLP 2020,* Oral presentation. (* = equal contribution). [[pdf](https://openreview.net/pdf?id=4LIJshtHlnk)]
 
 **When to Intervene: Detecting Abnormal Mood using Everyday Smartphone Conversations.**  
  John Gideon, **Katie Matton**, Steve Anderau, Melvin G McInnis, Emily Mower Provost.  

@@ -8,7 +8,7 @@ title: "Publications"
 *INTERSPEECH 2019,* Oral presentation. [[pdf](https://web.eecs.umich.edu/~emilykmp/EmilyPapers/2019_Matton_Interspeech.pdf), [slides](https://drive.google.com/file/d/1AEB9DVhXTGB6QeZlhgXOSzEVK3lYbXeV/view?usp=sharing)]
 
 **Quantifying the Effects of COVID-19 on Mental Health Support Forums.**  
-Laura Biester*, **Katie Matton***, Janarthanan Rajendran, Emily Mower Porvost, and Rada Mihalcea.
+Laura Biester\*, **Katie Matton**\*, Janarthanan Rajendran, Emily Mower Porvost, and Rada Mihalcea.
 *Workshop on NLP for COVID-19, EMNLP 2020,* Oral presentation. (* = equal contribution). [[pdf](https://openreview.net/pdf?id=4LIJshtHlnk)]
 
 **When to Intervene: Detecting Abnormal Mood using Everyday Smartphone Conversations.**  

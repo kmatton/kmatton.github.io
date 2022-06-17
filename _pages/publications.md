@@ -3,10 +3,6 @@ permalink: /publications/
 title: "Publications"
 ---
 
-**Invariance-Based Causal Estimation in the Presence of Concept Drift.**  
-**Katie Matton**, John Guttag, and Rosalind Picard.
-*Submitted.*
-
 **Quantifying the Effects of COVID-19 on Mental Health Support Forums.**  
 Laura Biester\*, **Katie Matton**\*, Janarthanan Rajendran, Emily Mower Porvost, and Rada Mihalcea.
 *Workshop on NLP for COVID-19, EMNLP 2020,* Oral presentation. (* = equal contribution). [[pdf](https://openreview.net/pdf?id=4LIJshtHlnk)]

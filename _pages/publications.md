@@ -5,11 +5,11 @@ title: "Publications"
 
 **Invariance-Based Causal Estimation in the Presence of Concept Drift.**
 **Katie Matton**, John Guttag, and Rosalind Picard.
-*Workshop on Causal Representation Learning, UAI 2022.* [[pdf](https://openreview.net/pdf?id=OUPRc9EnlNb)
+*Workshop on Causal Representation Learning, UAI 2022.* [[pdf](https://openreview.net/pdf?id=OUPRc9EnlNb)]
 
 **Contrastive Learning of Electrodermal Activity Representations for Stress Detection**
 **Katie Matton**\*, Robert Lewis\*, John Guttag, and Rosalind Picard.
-*Learning from Time Series for Health Workshop, NeurIPS 2022.* (* = equal contribution). [[pdf](https://openreview.net/pdf?id=bSC_xo8VQ1b)
+*Learning from Time Series for Health Workshop, NeurIPS 2022.* (* = equal contribution). [[pdf](https://openreview.net/pdf?id=bSC_xo8VQ1b)]
 
 **Quantifying the Effects of COVID-19 on Mental Health Support Forums.**  
 Laura Biester\*, **Katie Matton**\*, Janarthanan Rajendran, Emily Mower Porvost, and Rada Mihalcea.

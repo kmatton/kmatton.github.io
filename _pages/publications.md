@@ -5,7 +5,7 @@ title: "Publications"
 
 **Walk the Talk? Measuring the Faithfulness of Large Language Model Explanations.**
 **Katie Matton**, Robert Ness, John Guttag, Emre Kıcıman.
-*ICLR 2025*. Spotlight (top \%3). [[pdf](https://openreview.net/forum?id=4ub9gpx9xw)]
+*ICLR 2025*. Spotlight (top 3%). [[pdf](https://openreview.net/pdf?id=4ub9gpx9xw)]
 
 **Recent Advances, Applications and Open Challenges in Machine Learning for Health: Reflections from Research Roundtables at ML4H 2023 Symposium.**
 Hyewon Jeong, Sarah Jabbour, Yuzhe Yang, ..., **Katie Matton**, *et al.*

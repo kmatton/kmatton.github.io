@@ -37,5 +37,5 @@ Laura Biester\*, **Katie Matton**\*, Janarthanan Rajendran, Emily Mower Porvost,
 
 **Into the Wild: Transitioning from Recognizing Mood in Clinical Interactions to Personal Conversations for Individuals with Bipolar Disorder.**  
 **Katie Matton**, Melvin G. McInnis, and Emily Mower Provost.  
-*INTERSPEECH 2019,* Oral presentation. [[pdf](https://www.isca-speech.org/archive_v0/Interspeech_2019/pdfs/2698.pdf)]
+*INTERSPEECH 2019,* Oral presentation. [[pdf](https://www.isca-archive.org/interspeech_2019/matton19_interspeech.pdf)]
 

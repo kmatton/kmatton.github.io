@@ -1,0 +1,52 @@
+html { font-size: 17px; }
+
+body {
+  margin: 0;
+  font-family: Charter, "Bitstream Charter", "Sitka Text", Cambria, Georgia, serif;
+  color: #222;
+  background: #fff;
+  line-height: 1.55;
+}
+
+.wrap {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 3rem 1.25rem 2.5rem;
+}
+
+header { margin-bottom: 2rem; }
+header h1 { font-size: 1.5rem; font-weight: normal; margin: 0 0 0.3rem; }
+nav a { margin-right: 1.1rem; }
+nav a.current { color: #222; }
+
+a { color: #1a5fb4; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+p { margin: 0 0 1rem; }
+
+img.headshot {
+  float: right;
+  width: 170px;
+  height: auto;
+  margin: 0.25rem 0 1rem 1.5rem;
+  border-radius: 2px;
+}
+
+h2 { font-size: 1.05rem; margin: 2rem 0 0.75rem; }
+.pub { margin: 0 0 1.1rem; }
+.pub b { font-weight: 600; }
+.pub .links { white-space: nowrap; }
+
+footer {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid #ddd;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+@media (max-width: 600px) {
+  html { font-size: 16px; }
+  .wrap { padding: 2rem 1rem; }
+  img.headshot { float: none; display: block; width: 150px; margin: 0 0 1.25rem; }
+}

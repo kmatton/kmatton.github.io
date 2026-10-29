@@ -22,7 +22,8 @@ nav a.current { color: #222; }
 a { color: #1a5fb4; text-decoration: none; }
 a:hover { text-decoration: underline; }
 
-p { margin: 0 0 1rem; }
+p { margin: 0 0 1rem; text-wrap: pretty; }
+.nowrap { white-space: nowrap; }
 
 img.headshot {
   float: right;
